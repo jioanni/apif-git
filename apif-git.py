@@ -9,7 +9,9 @@ import json
 
 #Set your config file route here:
 
-config = "/Users/sause/PycharmProjects/afcmd.py/config.yml"
+config = "/route/to/your/config/goes/here/config.yml"
+
+#This is the subdirectory that your tests live in amongst the code in your git repository. 
 
 test_subdirectory = "subdir/"
 
