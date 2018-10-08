@@ -42,7 +42,7 @@ def post_receive(branch_name):
             print("APIF: OK")
         else:
             print('APIF: ' + req.status_code + " error")
-#beep boop
+
 
 
 post_receive("master")
